@@ -117,20 +117,31 @@ Check for persistence mechanisms using the task scheduler via taskschd.msc
 🧪 Tools and Technologies
 
 Windows Server
+
 Active Directory
+
 Event Viewer
+
 PowerShell
+
 PowerView
+
 Windows Server Backup
+
 SIEM
 
 🧠 Skills Demonstrated
 
 Active Directory forensics
+
 Identity threat detection
+
 Enterprise incident response
+
 Secure recovery operations
+
 Domain hardening and containment
+
 Advanced attack awareness
 
 🙌 Credits
