@@ -17,7 +17,7 @@ The mission is to identify malicious activity, determine scope, preserve evidenc
 
 ### Step 1: Identify Suspicious Group Activity
 
-What event ID is logged when a user is removed from a universal security group
+What event ID is logged when a user is removed from a universal security group?
 
  <img width="1435" height="362" alt="Recovering Active Directory Project Question 1 " src="https://github.com/user-attachments/assets/ec38837f-16d2-4463-970a-1b1162b75ce7" />
 
@@ -32,7 +32,7 @@ Event ID 4757
 
 ### Step 2: Identify the Malicious User
 
-What is the email address of the user evil.guy
+What is the email address of the user, evil.guy? 
 
  <img width="1331" height="123" alt="Recovering Active Directory Project Question 2" src="https://github.com/user-attachments/assets/ba30e913-85e0-4ed3-92eb-b00d39ab10e1" />
 
@@ -47,7 +47,7 @@ hack@crypto
 
 ### Step 3 Confirm Log Visibility and Monitoring
 
-What utility in Windows displays and keeps track of system events
+What utility in Windows displays and keeps track of system events?
 
  <img width="1410" height="108" alt="Recovering Active Directory Project Question 3" src="https://github.com/user-attachments/assets/10cc30df-04e7-4bdb-ad65-2b0d2f1a802d" />
 
@@ -66,7 +66,7 @@ Both one-time and incremental backups
 <img width="1910" height="767" alt="Recovering Active Directory Project answer 5" src="https://github.com/user-attachments/assets/02e91623-027b-41eb-ab52-cffade7c4094" />
 Step 6: Compromise Response Strategy
 
-What is the correct order of actions when recovering a compromised Active Directory environment
+What is the correct order of actions when recovering a compromised Active Directory environment?
 
  <img width="1521" height="130" alt="Recovering Active Directory Project Question 6" src="https://github.com/user-attachments/assets/ac050b7d-02f6-4bf9-ab76-5d851631ec68" />
 
@@ -82,7 +82,7 @@ Forward logs to SIEM
 
 Step 7: Advanced Attack Awareness
 
-What type of attack allows attackers to impersonate a domain controller and replicate domain data
+What type of attack allows attackers to impersonate a domain controller and replicate domain data.
 
  <img width="1501" height="145" alt="Recovering Active Directory Project Question 7" src="https://github.com/user-attachments/assets/4808c07e-5113-4e29-a264-cc4acb408b1b" />
 
@@ -93,7 +93,7 @@ DCSync attack
 <img width="1485" height="169" alt="Recovering Active Directory Project answer 7" src="https://github.com/user-attachments/assets/a26c95ca-b457-4a70-bb22-f206a2a336a2" />
 
 
-Prevention includes monitoring replication permissions and disabling compromised accounts immediately
+Prevention includes monitoring replication permissions and disabling compromised accounts immediately.
 
  <img width="1306" height="758" alt="Recovering Active Directory Project answer 8" src="https://github.com/user-attachments/assets/34fba26b-2594-4313-aae3-a2a12cb8d1f8" />
 
@@ -129,5 +129,5 @@ Advanced attack awareness
 
 🙌 Credits
 
-Built through hands on Active Directory security and blue team incident response training
+Built through hands-on Active Directory security and blue team incident response training.
 
