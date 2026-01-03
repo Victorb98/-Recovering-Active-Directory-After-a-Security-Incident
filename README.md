@@ -101,11 +101,17 @@ Prevention includes monitoring replication permissions and disabling compromised
 🚀 Key Defensive Actions Taken
 
 Look for compromised accounts and reset credentials
+
 Change Kerberos service account password
+
 Reset passwords of all administrative accounts
+
 Reset computer machine passwords using Reset-ComputerMachinePassword
+
 Reset the domain controller password to prevent Silver Ticket abuse
+
 Perform malware analysis on domain controllers
+
 Check for persistence mechanisms using the task scheduler via taskschd.msc
 
 🧪 Tools and Technologies
