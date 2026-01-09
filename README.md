@@ -72,11 +72,11 @@ What is the correct order of actions when recovering a compromised Active Direct
 
 
 Finding
-Prepare a cybersecurity policy and a disaster recovery plan
-Take a backup of the compromised domain controller
-Reset admin account passwords
-Track group policy object changes
-Forward logs to SIEM
+Prepare a cybersecurity policy and a disaster recovery plan,
+Take a backup of the compromised domain controller,
+Reset admin account passwords,
+Track group policy object changes,
+Forward logs to SIEM.
 
  <img width="1485" height="329" alt="Recovering Active Directory Project answer 6" src="https://github.com/user-attachments/assets/172b930b-a7a0-4f25-ae52-5592631481f7" />
 
